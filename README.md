@@ -1,2 +1,2 @@
-# ue-neural-network
+# ue4-neural-network
 Unreal Engine 4 neural network implementation.
